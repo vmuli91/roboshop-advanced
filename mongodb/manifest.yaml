@@ -34,7 +34,7 @@ spec:
     spec:
       containers:
       - name: mongodb
-        image: techworldwithsiva/mongodb:v1
+        image: venkateshreddymuli/mongodb:v1
         ports:
         - containerPort: 27017
           name: mongodb
